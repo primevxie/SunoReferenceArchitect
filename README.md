@@ -2,7 +2,7 @@
 
 **Reverse-engineer the "DNA" of any song and generate perfect Suno AI prompts.**
 
-Suno Architect is a specialized tool that uses **Google Gemini 2.5 Flash** (Multimodal AI) to "listen" to your reference tracks. It extracts the genre, BPM, instruments, and vocal style, then converts that data into optimized tags for Suno v3.5/v4.
+Suno Architect is a specialized tool that uses **Google Gemini 2.5 Flash** (Multimodal AI) to "listen" to your reference tracks. It extracts the genre, BPM, instruments, and vocal style, then converts that data into optimized tags for Suno v4.5-all/v5.
 
 It also includes a **Lyric Density Calculator** to predict if your lyrics will fit the generated beat or if they will result in hallucinations/rushing.
 
